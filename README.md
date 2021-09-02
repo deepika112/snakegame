@@ -4,17 +4,17 @@ This is the source code for Snake game developed in C++ language and on Turbo CP
 
 These are the following rules for the game:
   
-  **1:PRESS W-> to go up
+  **1:PRESS W-> to go up**
   
-  **2:PRESS S-> to go down
+  **2:PRESS S-> to go down**
 	
-  **3:PRESS A-> to go left
+  **3:PRESS A-> to go left**
 	
-  **4:PRESS D-> to go right
+  **4:PRESS D-> to go right**
 	
-  **5:PRESS X-> to exit
+  **5:PRESS X-> to exit**
   
-  **PRESS 0 TO START GAME
+  **PRESS 0 TO START GAME**
   
   There are following functions used in program:
   
