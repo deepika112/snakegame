@@ -52,8 +52,9 @@ void score_cal(int n)  //calculates score
 }
 void food() //generates food
 {
-	x=rand()%68;
-	y=rand()%18;
+	srand(time(0));
+	x=rand()%67 + 1;
+	y=rand()%17 + 1;
 }
 void display()// displays the values of array snake_array
 {
