@@ -42,4 +42,12 @@ These are the following rules for the game:
   
   Plateform: Turbo CPP
  
- Header files used : stdlib, dos, stdio, conio, iostream
+ Header files used : **stdlib**, **dos**, **stdio**, **conio**, **iostream**
+ 
+ The screenshot of the game is uploaded below:
+ 
+ ![Screenshot (269)](https://user-images.githubusercontent.com/68001066/133921209-87838006-5979-4ff0-ba3b-f70b7def4225.png)
+
+![Screenshot (270)](https://user-images.githubusercontent.com/68001066/133921213-ecf5a7f1-310e-4a1a-b143-83608fbdc6ee.png)
+
+
